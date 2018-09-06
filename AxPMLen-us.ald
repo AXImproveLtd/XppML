@@ -1,0 +1,129 @@
+﻿@PML0 
+@PML1 
+@PML2 
+@PML3 
+@PML4 
+@PML5 
+@PML6 
+@PML7 
+@PML8 
+@PML9 
+@PML10 
+@PML11 
+@PML12 
+@PML13 
+@PML14 
+@PML15 
+@PML16 
+@PML17 
+@PML18 
+@PML19 
+@PML20 
+@PML21 
+@PML22 
+@PML23 
+@PML24 
+@PML25 
+@PML26 
+@PML27 
+@PML28 
+@PML29 
+@PML30 
+@PML31 
+@PML32 
+@PML33 
+@PML34 
+@PML35 
+@PML36 
+@PML37 
+@PML38 
+@PML39 
+@PML40 
+@PML41 
+@PML42 
+@PML43 
+@PML44 
+@PML45 Label files created on 30-Aug-2018
+By user admin
+@PML46 XppML
+@PML47 X++ source code wrapped in XML tags
+@PML48 Code review
+@PML49 Process project objects into xml
+@PML50 Processes objects included in shared or priate development project into xml representation
+@PML51 XppML code review
+@PML52 XppML expressions form
+@PML53 Results
+XppML
+@PML54 Failed to log on to the database through ODBC.
+@PML55 Object decaration needs to be processed first
+@PML56 Node %1 is inaccessible to processes running on server.
+@PML57 Unexpected %1
+@PML58 Select project
+@PML59 Execute xPath expression
+@PML60 xPath expression
+@PML61 Source code
+XppML
+@PML62 XML Source
+XppML
+@PML63 Source code wrapped in XML tags
+@PML64 Reference to code reviews table
+@PML65 xPath expression for getting result data from xml table
+@PML66 Top value
+@PML67 Value for TOP element in sql expression
+@PML68 SQL table full name
+@PML69 Name of the table where sql xml data stored
+@PML70 Results for xRefPath data
+@PML71 Review methods
+@PML72 Code review parameters
+{locked}
+@PML73 Setup code review parameters
+@PML74 Quantity of methods and results
+@PML75 Name
+XppML
+@PML76 Last executed
+XppML
+@PML77 Base set
+@PML78 XPath expression used to generate results lines
+@PML79 Select
+XppML
+@PML80 XPath expression used to select methods, executed by the database server
+@PML81 Filter
+XppML
+@PML82 XPath expression used to additionally filter the methods, executed by AOS server
+@PML83 Number of result lines fulfilling the conditions
+@PML84 Number of methods fulfilling the conditions
+@PML85 When latest getting data from xml table was executed
+@PML86 The initial pool of methods
+@PML87 The result of Xpath query on the method
+@PML88 AOT path
+@PML89 Table contains rekords with results for xPath details
+@PML90 Table contains methods fulfilling both select and filter criteria
+{locked}
+@PML91 Table contains main records for code review
+{locked}
+@PML92 Circular reference in bases
+@PML93 Parameters for code review module
+{locked}
+@PML94 X++ML Code review and analysis
+@PML95 Collection
+XppML
+@PML96 Collection of reviews
+@PML97 Project
+XppML
+@PML98 Methods from development project
+@PML99 XppML update
+@PML100 Temporarily holds updates to XppML repository
+{locked}
+@PML101 Table holds results of the Result expression
+{locked}
+@PML102 View joins the xRepPaths with external table
+{locked}
+@PML103 Result of the expression
+@PML104 Result
+XppML
+@PML105 Parameters table contains setup data for code review module
+@PML106 Tree view
+XppML
+@PML107 XppML database
+@PML108 Full name of the table where XppML documents are stored.
+@PML109 How many rows should be obtained when testing the XPath expressions
