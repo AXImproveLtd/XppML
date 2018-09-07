@@ -481,19 +481,18 @@ Formatversion: 1
       SOURCE #update
         #public void update()
         #{
+        #    XppMLReviewTable orig = this.orig();
+        #
         #    ttsBegin;
         #
         #    this.validateBase();
         #
         #    if(     !this.LastExecuted
-        #        ||  (   this.orig().LastExecuted
-        #            &&  !this.LastExecuted
-        #            )
+        #        ||  orig.LastExecuted != this.LastExecuted
         #        )
         #    {
         #        this.updateChildLastExecuted();
         #    }
-        #
         #    super();
         #
         #    ttsCommit;
