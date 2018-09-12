@@ -24,7 +24,7 @@ Making your source code understandable opens it up to:
 |3 | super(_fieldId); | &lt;st&gt;&lt;call&gt;&lt;method name="modifiedField" table="Common"&gt;&lt;kw&gt;**super**&lt;/kw&gt;&lt;/method&gt;**(**&lt;el&gt;&lt;var domain="edt" type="FieldId"&gt;**_fieldId**&lt;/var&gt;&lt;/el&gt;**)**&lt;/call&gt;&lt;/st&gt;**;**
 |4 | } | &lt;/bl&gt;**}**&lt;/source&gt;
 
-Expanation of tags: [XppML tags](https://github.com/AXImproveLtd/XppML/wiki/XppML)
+Explanation of tags: [XppML tags](https://github.com/AXImproveLtd/XppML/wiki/XppML)
 ## Step 2: Save in the database
 The resulting xml documents are saved into an xml-aware database
 
@@ -36,4 +36,4 @@ The resulting xml documents are saved into an xml-aware database
 |Find methods returning void having only one parameter |/source/preamble[kw[.="void"] and count(def/el)=1]
 |When supplied, what is the 3rd parameter in all error(...) calls? | //call[method[.="error" and @domain="class" and @type="Global"]]/el[3]| 
 
-more examples [here](https://github.com/AXImproveLtd/XppML/wiki/XPath-examples-for-XppML)
+More examples [here](https://github.com/AXImproveLtd/XppML/wiki/XPath-examples-for-XppML)
